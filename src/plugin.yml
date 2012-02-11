@@ -1,0 +1,8 @@
+name: WeatherZones
+main: me.xXLupoXx.WeatherZones.WeatherZones
+author: xXLupoXx
+version: 0.1
+website: http://dev.bukkit.org/server-mods/nospawn/
+commands:
+  saveweatherzone:
+      description: Save Zones to Yaml
